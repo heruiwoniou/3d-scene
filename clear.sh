@@ -1,3 +1,2 @@
-rm -rf assets
+rm -rf assets hdrs models textures
 rm index.html
-rm -rf models
